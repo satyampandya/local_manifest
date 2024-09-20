@@ -8,7 +8,7 @@
  
 
  <!-- trees -->
- <project path="device/xiaomi/vince"           name="device_xiaomi_vince"            remote="pj"       revision="elixir-13" clone-depth="1" />
+ <project path="device/xiaomi/vince"           name="device_xiaomi_vince"            remote="ps"       revision="elixir-13" clone-depth="1" />
   <project path="vendor/xiaomi/vince"           name="vendor_xiaomi_vince"            remote="dibgithub" revision="lineage-20" clone-depth="1" />
  <project path="device/xiaomi/msm8953-common"  name="device_xiaomi_msm8953-common"   remote="dibgithub" revision="lineage-20" clone-depth="1" />
  <project path="vendor/xiaomi/msm8953-common"  name="vendor_xiaomi_msm8953-common"   remote="dibgithub" revision="lineage-20" clone-depth="1" />
