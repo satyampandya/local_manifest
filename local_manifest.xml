@@ -6,7 +6,7 @@
  <remote name="AL" fetch="https://github.com/ALprjkt" />
 
  <!-- trees -->
- <project path="device/xiaomi/vince"           name="device_xiaomi_vince"            remote="404"       revision="lineage-21" clone-depth="1" />
+ <project path="device/xiaomi/vince"           name="device_xiaomi_vince"            remote="404"       revision="everest" clone-depth="1" />
  <project path="vendor/xiaomi/vince"           name="vendor_xiaomi_vince"            remote="404"       revision="lineage-21" clone-depth="1" />
  <project path="device/xiaomi/msm8953-common"  name="device_xiaomi_msm8953-common"   remote="404"       revision="lineage-21" clone-depth="1" />
  <project path="vendor/xiaomi/msm8953-common"  name="vendor_xiaomi_msm8953-common"   remote="404"       revision="lineage-21" clone-depth="1" />
