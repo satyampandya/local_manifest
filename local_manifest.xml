@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
 
- <!-- remote -->
- <remote name="ps" fetch="https://github.com/PrajjuS" />
- <remote name="AL" fetch="https://github.com/ALprjkt" />
- <remote name="dibgithub" fetch="https://github.com/dib12" />
- 
-
- <!-- trees -->
- <project path="device/xiaomi/vince"           name="device_xiaomi_vince"            remote="ps"       revision="elixir-13" clone-depth="1" />
-  <project path="vendor/xiaomi/vince"           name="vendor_xiaomi_vince"            remote="dibgithub" revision="lineage-20" clone-depth="1" />
- <project path="kernel/xiaomi/msm8953"         name="kernel_xiaomi_vince"          remote="AL"        revision="main" clone-depth="1" />
- 
- </manifest>
